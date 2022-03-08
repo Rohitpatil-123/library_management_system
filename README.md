@@ -8,4 +8,4 @@
 - can see books added
 - can see how many books are issued 
 ## this project is for reduce paperwork in library
-<IMG SRC=lighthouse.JPG HEIGHT=500 WIDTH=100%>
+<IMG SRC=lighthouse.JPG >
