@@ -8,4 +8,4 @@
 - can see books added
 - can see how many books are issued 
 ## this project is for reduce paperwork in library
-<IMG SRC=lighthouse.JPG >
+<IMG SRC="C:\Users\RR\Downloads\html1\patil\Lighthouse.jpg" >
