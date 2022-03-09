@@ -15,9 +15,9 @@
 # Screenshots
 ## <b>Admin login (admin can make following changes)</b>
 ![por1](https://user-images.githubusercontent.com/99815954/157246139-62ff0e5a-2475-46b6-9eb3-8987b0cf0506.png) 
-### -<b>Admin page</b>
+### - <b>Admin page</b>
 ![pro2](https://user-images.githubusercontent.com/99815954/157246211-07314b46-c948-4fdf-a231-917402559193.png)
-### -<b>Register Librarian</b>
+### - <b>Register Librarian</b>
 ![pro3](https://user-images.githubusercontent.com/99815954/157246230-8f11da11-e59c-431d-8c28-3b8632b21bad.png)
 ### <b>View Librarian Details</b>
 ![pro4](https://user-images.githubusercontent.com/99815954/157246243-01dd0d7a-02ce-4dc7-ab73-05d4e721e994.png)
